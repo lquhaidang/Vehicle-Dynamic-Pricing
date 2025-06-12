@@ -2,7 +2,7 @@
 A ride-sharing company wants to implement a dynamic pricing strategy to optimize fares based on real-time market conditions. The company only uses ride duration to decide ride fares currently. The company aims to leverage data-driven techniques to analyze historical data and develop a predictive model that can dynamically adjust prices in response to changing factors.
 
 ### Dataset
-The dataset provided for this project contains historical ride data and includes features such as the number of riders, number of drivers, location category, customer loyalty status, number of past rides, average ratings, time of booking, vehicle type, expected ride duration, and historical cost of the rides. These features will serve as the basis for developing the dynamic pricing model. You can download the data from [**here**](#https://statso.io/dynamic-pricing-case-study/).
+The dataset provided for this project contains historical ride data and includes features such as the number of riders, number of drivers, location category, customer loyalty status, number of past rides, average ratings, time of booking, vehicle type, expected ride duration, and historical cost of the rides. These features will serve as the basis for developing the dynamic pricing model. You can download the data from [**Kaggle Here**](#https://statso.io/dynamic-pricing-case-study/).
 
 ### Objectives
 1. Develop a predictive model that accurately estimates optimal fares for rides based on real-time market conditions and historical data.
