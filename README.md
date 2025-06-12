@@ -15,5 +15,3 @@ The dataset provided for this project contains historical ride data and includes
 3. **Model Selection**: Explore various machine learning algorithms, including regression and ensemble methods, to identify the optimal model for dynamic pricing prediction.
 4. **Model Training and Evaluation**: Train the selected model on the preprocessed dataset and evaluate its performance using appropriate metrics such as mean absolute error and root mean squared error.
 5. **Dynamic Pricing Implementation**: Implement the trained model to dynamically adjust fares in real-time based on changing market conditions, demand patterns, and supply availability, ensuring optimal pricing for each ride.
-
-### Libraries
